@@ -4,36 +4,32 @@
 
 [Description](#description)
 
-[Walkthrough](#walkthrough)
-
 [Usage](#usage)
+
+[Walkthrough](#walkthrough)
 
 [License](#license)
 
 [Contributing](#contributing)
-
-[Tests](#tests)
 
 [Questions](#questions)
 
 ## Description
 a social network api utilising mongoDB and mongoose
 
-## License
-This product is under the The Unlicense.
+## Usage
+integrate it with a front end
 
 ## Walkthrough
 
 https://youtu.be/wkIMGsA2040
 
 
-## Usage
-integrate it with a front end
-
 ## Contributing
 Feel free to fork this project and make changes for review
 
-## Tests
+## License
+This product is under the The Unlicense.
 
 
 ## Questions
