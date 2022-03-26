@@ -2,7 +2,7 @@ const express = require('express');
 const routes = require('./routes');
 const db = require('./config/connection');
 
-const PORT = process.env.port || 3001;
+const PORT = process.env.port || 3000;
 const app = express();
 
 app.use(express.urlencoded({ extended: true }));
