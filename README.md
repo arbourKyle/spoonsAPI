@@ -4,7 +4,7 @@
 
 [Description](#description)
 
-[Installation](#installation)
+[Walkthrough](#walkthrough)
 
 [Usage](#usage)
 
@@ -22,7 +22,9 @@ a social network api utilising mongoDB and mongoose
 ## License
 This product is under the The Unlicense.
 
-## Installation
+## Walkthrough
+
+https://youtu.be/wkIMGsA2040
 
 
 ## Usage
